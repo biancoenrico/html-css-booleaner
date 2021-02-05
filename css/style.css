@@ -57,4 +57,32 @@
 .main-text {
   margin-top: 20px;
 }
+
+/*list*/
+.list {
+  margin-top: 20px;
+}
+
+/*table*/
+.table {
+  margin-top: 20px;
+}
+
+.cell {
+  width: 50%;
+}
+
+.thead {
+  text-align: left;
+}
+
+.tr {
+  background-color: cyan;
+}
+
+.odd {
+  background-color: lightblue;
+}
+/*end table*/
+
 /*end main*/
