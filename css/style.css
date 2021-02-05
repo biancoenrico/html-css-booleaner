@@ -1,0 +1,60 @@
+/*reset*/
+* {
+  margin: 0;
+}
+/*common*/
+.container {
+  width: 1024px;
+  margin: auto;
+}
+
+.highlights {
+  background-color: yellow;
+}
+
+/*header*/
+.logo {
+  width: 200px;
+  margin-top: 30px;
+}
+
+.bg {
+  background-color: lightsteelblue;
+  background-image: url("../img/pattern.png");
+  background-size: 350px;
+}
+/*end header*/
+
+/*main*/
+
+.title {
+  font-size: 35px;
+  margin-top: 20px;
+}
+/*author*/
+.author {
+  font-size: 15px;
+  color: grey;
+}
+
+.author span {
+  color: blue;
+}
+/*data*/
+.data {
+  font-size: 10px;
+  color: gray;
+}
+/*image of tim*/
+.tim-img {
+  margin-top: 20px;
+}
+/*image description*/
+.img-desc {
+  font-size: 12px;
+}
+/*main text*/
+.main-text {
+  margin-top: 20px;
+}
+/*end main*/
